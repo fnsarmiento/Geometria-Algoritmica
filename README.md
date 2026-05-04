@@ -1,1 +1,1 @@
-# Geometr-a-Algor-tmica
+# Geometria-Algoritmica
